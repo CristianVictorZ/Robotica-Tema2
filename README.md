@@ -30,4 +30,4 @@ Inițial, jocul este în repaus. LED-ul RGB are culoarea albă. Se alege dificul
 
 ## Video
 
-TO DO
+[<img src="https://img.youtube.com/vi/HkYYlN9PhC8/maxresdefault.jpg">](https://youtu.be/HkYYlN9PhC8)
