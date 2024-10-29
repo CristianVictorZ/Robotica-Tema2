@@ -18,7 +18,7 @@ Fire de legătură.
 
 ## Schema:
 
-TO DO
+![Schema](https://github.com/user-attachments/assets/03e93894-b0d4-4618-82ab-8f6e429111c2)
 
 ## Descriere:
 
